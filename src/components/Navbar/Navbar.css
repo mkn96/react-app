@@ -18,7 +18,8 @@
   .nav__list {
     display: none;
     flex-direction: column;
-    justify-content: center;
+    justify-content: top;
+    padding-top: 5rem;
     align-items: center;
     position: fixed;
     inset: 0;
